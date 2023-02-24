@@ -1,0 +1,15 @@
+C:\ProjetosWEB\.net\APPCadastroSeriesUnimedBH\bin\Debug\net6.0\APPCadastroSeriesUnimedBH.exe
+C:\ProjetosWEB\.net\APPCadastroSeriesUnimedBH\bin\Debug\net6.0\APPCadastroSeriesUnimedBH.deps.json
+C:\ProjetosWEB\.net\APPCadastroSeriesUnimedBH\bin\Debug\net6.0\APPCadastroSeriesUnimedBH.runtimeconfig.json
+C:\ProjetosWEB\.net\APPCadastroSeriesUnimedBH\bin\Debug\net6.0\APPCadastroSeriesUnimedBH.dll
+C:\ProjetosWEB\.net\APPCadastroSeriesUnimedBH\bin\Debug\net6.0\APPCadastroSeriesUnimedBH.pdb
+C:\ProjetosWEB\.net\APPCadastroSeriesUnimedBH\obj\Debug\net6.0\APPCadastroSeriesUnimedBH.csproj.AssemblyReference.cache
+C:\ProjetosWEB\.net\APPCadastroSeriesUnimedBH\obj\Debug\net6.0\APPCadastroSeriesUnimedBH.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosWEB\.net\APPCadastroSeriesUnimedBH\obj\Debug\net6.0\APPCadastroSeriesUnimedBH.AssemblyInfoInputs.cache
+C:\ProjetosWEB\.net\APPCadastroSeriesUnimedBH\obj\Debug\net6.0\APPCadastroSeriesUnimedBH.AssemblyInfo.cs
+C:\ProjetosWEB\.net\APPCadastroSeriesUnimedBH\obj\Debug\net6.0\APPCadastroSeriesUnimedBH.csproj.CoreCompileInputs.cache
+C:\ProjetosWEB\.net\APPCadastroSeriesUnimedBH\obj\Debug\net6.0\APPCadastroSeriesUnimedBH.dll
+C:\ProjetosWEB\.net\APPCadastroSeriesUnimedBH\obj\Debug\net6.0\refint\APPCadastroSeriesUnimedBH.dll
+C:\ProjetosWEB\.net\APPCadastroSeriesUnimedBH\obj\Debug\net6.0\APPCadastroSeriesUnimedBH.pdb
+C:\ProjetosWEB\.net\APPCadastroSeriesUnimedBH\obj\Debug\net6.0\APPCadastroSeriesUnimedBH.genruntimeconfig.cache
+C:\ProjetosWEB\.net\APPCadastroSeriesUnimedBH\obj\Debug\net6.0\ref\APPCadastroSeriesUnimedBH.dll
